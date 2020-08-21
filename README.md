@@ -46,4 +46,4 @@ I am a fun of computer, I love...
 
 #### If you're interested in Dungeon Games, Join me!
 
-### Click_Me_To_Jump_To_The_Dungeon_Repositories![https://github.com/WindyShadow/LostDungeon]
+### (Click_Me_To_Jump_To_The_Dungeon_Repositories!)[https://github.com/WindyShadow/LostDungeon]
