@@ -1,12 +1,5 @@
 ## 😎 Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 I am a Python lover.
 
 I am also interested in these programming languages:
@@ -45,9 +38,11 @@ I am a fun of computer, I love...
 
 - And Linux!
 
-### Happy end!
+# Looking for help!😥
 
-#### PS: I am looking for help ! I want to use Python and tkinter to write a Dungeon Game, but it's a bit hard to me!
+## DungeonGame
+
+#### I am looking for help ! I want to use Python and tkinter to write a Dungeon Game, but it's a bit hard to me!
 
 #### If you're interested in Dungeon Games, Join me!
 
