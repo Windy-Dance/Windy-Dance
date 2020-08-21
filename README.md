@@ -24,13 +24,13 @@ I am a fun of computer, I love...
 
 - Write some small programs to relax myself :robot
 
-- Open Source :octocat
+- Open Source 
 
 - Running🏃‍
 
-- Watch cartoon📗 and read book📖(Why the <Demon Slayer> End Just 200+ chapters!😭)
+- Watch cartoon📗 and read book📖(Why the Demon Slayer End Just 200+ chapters!😭)
 
-- Coffee :coffee (The drink is wonderful!(๑•̀ㅂ•́)و✧)
+- Coffee  (The drink is wonderful!(๑•̀ㅂ•́)و✧)
 
 - Eat delicious food!🍰
 
