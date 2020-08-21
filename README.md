@@ -42,8 +42,8 @@ I am a fun of computer, I love...
 
 ## DungeonGame
 
-#### I am looking for help ! I want to use Python and tkinter to write a Dungeon Game, but it's a bit hard to me!
+#### I am looking for help ! I want to use Python and tkinter to write a Dungeon Game called [Lost Dungeon], but it's a bit hard to me!
 
 #### If you're interested in Dungeon Games, Join me!
 
-### [Click_Me_To_Jump_To_The_Dungeon_Repositories!](https://github.com/WindyShadow/LostDungeon)
+### [Jump_To_The_Dungeon_Repositories!](https://github.com/WindyShadow/LostDungeon)
