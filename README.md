@@ -13,23 +13,15 @@ literature · philosophy · games · music — and the slow joy of learning unti
 
 ---
 
-<div style="font-size:13px;color:#8b949e;letter-spacing:1px">TOOLS &amp; TOYS</div>
+<div style="font-size:13px;color:#8b949e;letter-spacing:1px">DIVING INTO</div>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B#gh-dark-mode-only" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-111827?style=flat-square&logo=rust&logoColor=white#gh-dark-mode-only" alt="Rust">
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=white#gh-dark-mode-only" alt="C++">
-  <img src="https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=00ADD8#gh-dark-mode-only" alt="Go">
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032#gh-dark-mode-only" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white#gh-dark-mode-only" alt="Linux">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-f6f8fa?style=flat-square&logo=python&logoColor=3776AB#gh-light-mode-only" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-f6f8fa?style=flat-square&logo=rust&logoColor=black#gh-light-mode-only" alt="Rust">
-  <img src="https://img.shields.io/badge/C%2B%2B-f6f8fa?style=flat-square&logo=c%2B%2B&logoColor=00599C#gh-light-mode-only" alt="C++">
-  <img src="https://img.shields.io/badge/Go-f6f8fa?style=flat-square&logo=go&logoColor=00ADD8#gh-light-mode-only" alt="Go">
-  <img src="https://img.shields.io/badge/Git-f6f8fa?style=flat-square&logo=git&logoColor=F05032#gh-light-mode-only" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-f6f8fa?style=flat-square&logo=linux&logoColor=black#gh-light-mode-only" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
